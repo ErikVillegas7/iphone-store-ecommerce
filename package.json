@@ -1,7 +1,16 @@
 {
-  "name": "my-project-iphone",
-  "version": "0.1.0",
-  "private": true,
+  "name": "iphone-store-ecommerce",
+  "version": "1.0.0",
+  "description": "🛒 Complete iPhone e-commerce store with React - Features: fuzzy search, multi-category filtering, shopping cart, checkout flow, invoice generation, and print-ready receipts",
+  "keywords": ["react", "ecommerce", "iphone", "shopping-cart", "checkout", "invoice", "store"],
+  "author": "Erik Villegas",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ErikVillegas7/iphone-store-ecommerce.git"
+  },
+  "homepage": "https://github.com/ErikVillegas7/iphone-store-ecommerce",
+  "private": false,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
